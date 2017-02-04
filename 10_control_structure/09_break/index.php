@@ -1,5 +1,6 @@
 <?php
 
+
 /**
 * break adalah perintah kepada web server untuk menghentikan perulangan diluar dari perencanaan
 *break digunakan pada perulangan for, while, nested loop
@@ -19,5 +20,6 @@ for ($i=0; $i <10; $i++)
     echo $i;
   }
 echo "<br />";
+
 
 ?>
