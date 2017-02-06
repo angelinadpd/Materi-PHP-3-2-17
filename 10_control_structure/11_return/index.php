@@ -6,7 +6,7 @@
 
 * Contoh
 
-Return 0;
+* Return 0;
 
 *data yang di kembalikan bisa berupa apa saja seperti null, integer, array, string, object, dll
 */
