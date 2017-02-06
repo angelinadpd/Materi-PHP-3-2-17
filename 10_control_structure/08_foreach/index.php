@@ -9,14 +9,14 @@
 
 * foreach($variable as $key => $value)
 * {
-    //kode yang akan di eksekusi
+*    //kode yang akan di eksekusi
 * }
 
 * Syntax 2 :
 
 * foreach($variable as $value)
 * {
-    //kode yang akan di eksekusi
+*    //kode yang akan di eksekusi
 * }
 
 * perbedaannya hanya pada variable key guna untuk mengulangi semua index yang ada dalam array
