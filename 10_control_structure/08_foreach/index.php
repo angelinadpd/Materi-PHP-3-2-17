@@ -7,17 +7,17 @@
 
 * Syntax 1 :
 
-foreach($variable as $key => $value)
-{
+* foreach($variable as $key => $value)
+* {
     //kode yang akan di eksekusi
-}
+* }
 
 * Syntax 2 :
 
-foreach($variable as $value)
-{
+* foreach($variable as $value)
+* {
     //kode yang akan di eksekusi
-}
+* }
 
 * perbedaannya hanya pada variable key guna untuk mengulangi semua index yang ada dalam array
 * dan pada Syntax 2 tifak ada variable key
