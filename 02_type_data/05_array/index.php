@@ -2,7 +2,7 @@
 
     /**
     * Array adalah mnultiple storage values dalam satu variable
-        Ex :
+    *   Ex :
     */
 
     $handphone = array('layar','camera','memmory','vga');
